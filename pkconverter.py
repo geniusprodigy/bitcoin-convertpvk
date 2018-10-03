@@ -18,7 +18,7 @@ def convert(z):
     print ("Private Key on WIF format below")
     print (WIF)
     print ("_________________________________")
-    print ("Donations for BTC: 1PdT9edVvQNK4dpPu145rYu2jniap4sjC1")
+    print ("Donations for BTC: 3FQfaUoie5Q1gHe9ye3zumobCMxJNPxrEk")
 
 parser = argparse.ArgumentParser()
 parser.add_argument("num", help="Enter the privatekey extended in hexadecimal")
