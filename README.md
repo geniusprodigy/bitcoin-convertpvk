@@ -22,7 +22,7 @@ output: 5HueCGU8rMjxEXxiPuD5BDku4MkFqeZyd4dZ1jvhTVqvbTLvyTJ
 
 ---
 If this helped you, leave me a tip.
-BTC address: 3FQfaUoie5Q1gHe9ye3zumobCMxJNPxrEk
+BTC address: 1FTvHvzSNeYHZpJBvFwLy3BtNLGydzwKiM
 
 I can claim and sell your forks coins if you need, contact with me:
 
