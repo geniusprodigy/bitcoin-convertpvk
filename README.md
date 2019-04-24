@@ -21,10 +21,6 @@ pkconverter.py 0C28FCA386C7A227600B2FE50B7CAE11EC86D3BF1FBE471BE89827E19D72AA1D
 output: 5HueCGU8rMjxEXxiPuD5BDku4MkFqeZyd4dZ1jvhTVqvbTLvyTJ
 
 ---
-If this helped you, leave me a tip.
-BTC address: 1FTvHvzSNeYHZpJBvFwLy3BtNLGydzwKiM
+If you need any support, just contact me. Reddit: https://www.reddit.com/user/genius360 Email: geniusprodigy@protonmail.com
 
-I can claim and sell your forks coins if you need, contact with me:
-
-mail: geniusprodigy@protonmail.com
-reddit: https://www.reddit.com/u/genius360
+If this helped you, please leave a tip. BTC Address: 1FrRd4iZRMU8i2Pbffzkac5u4KwUptmc7S
