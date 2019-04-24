@@ -17,8 +17,11 @@ def convert(z):
     # Step 8: show the private key on usual format WIF for wallet import. Enjoy!
     print ("Private Key on WIF format below")
     print (WIF)
-    print ("_________________________________")
-    print ("Donations for BTC: 1FTvHvzSNeYHZpJBvFwLy3BtNLGydzwKiM")
+    print ("__________________________________________________\n")
+    print ("Developed by: ~geniusprodigy")
+    print ("My contact on reddit: reddit.com/u/genius360\n")
+    print ("If this saved you time or helped, donations please for BTC Address:")
+    print ("1FrRd4iZRMU8i2Pbffzkac5u4KwUptmc7S")
 
 parser = argparse.ArgumentParser()
 parser.add_argument("num", help="Enter the privatekey extended in hexadecimal")
